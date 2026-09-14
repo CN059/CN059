@@ -1,5 +1,3 @@
-# CN059
-
 <a href="https://ghfind.com/u/cn059?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/cn059?theme=dark&lang=zh" />
