@@ -1,0 +1,8 @@
+# CN059
+
+<a href="https://ghfind.com/u/cn059?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/cn059?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/cn059?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
